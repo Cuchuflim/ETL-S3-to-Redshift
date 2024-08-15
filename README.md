@@ -1,4 +1,7 @@
 # ETL-S3-to-Redshift
+
+https://cuchujr23.substack.com/p/etl-incremental-data-load
+
 Incremental Data Load from S3 Bucket to Amazon Redshift Using AWS Glue
 
 Performing an ETL Task (Extract, Transform, Load) using Amazon S3, AWS Glue, and Amazon Redshift
